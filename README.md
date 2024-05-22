@@ -9,7 +9,7 @@ Sou estudante da Sistemas de Informação, estou em um emocionante período de t
 ![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=.net&logoColor=purple)
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=)
 ![Vscode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
-![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=)
+
 
 ## 📲 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/alane-gomes)
